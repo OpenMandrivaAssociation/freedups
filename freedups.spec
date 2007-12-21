@@ -11,6 +11,7 @@ Group:		File tools
 URL:		http://www.stearns.org/freedups/
 Source:		http://www.stearns.org/freedups/%{name}-%{version}.tar.bz2
 Buildarch:	noarch
+BuildRoot:	%{_tmppath}/%{name}--buildroot
 
 %description
 Freedups hardlinks identical files to save space.  For files that are
