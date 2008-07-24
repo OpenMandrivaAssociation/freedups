@@ -1,6 +1,6 @@
 %define name	freedups
 %define	version	0.6.14
-%define release	%mkrel 2
+%define release	%mkrel 4
 
 Summary:	Hardlinks identical files to save space
 Name:		%{name}	
