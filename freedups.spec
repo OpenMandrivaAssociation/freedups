@@ -8,7 +8,7 @@ Version:	%{version}
 Release:	%{release}	
 License:	GPL
 Group:		File tools
-URL:		http://www.stearns.org/freedups/
+URL:		https://www.stearns.org/freedups/
 Source:		http://www.stearns.org/freedups/%{name}-%{version}.tar.bz2
 Buildarch:	noarch
 BuildRoot:	%{_tmppath}/%{name}--buildroot
